@@ -38,5 +38,5 @@ This project implements a **real-time LED control system** on the **MSP432 micro
 - **C Language**
 - **Timer A**, **NVIC**, **GPIO interrupts**
 - **Bitwise operations** for efficient I/O manipulation
-
+  
 ---
